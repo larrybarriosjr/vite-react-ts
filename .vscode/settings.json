@@ -1,0 +1,16 @@
+{
+	"editor.tabSize": 2,
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"editor.formatOnSave": true,
+	"editor.codeActionsOnSave": {
+		"source.fixAll": true,
+		"source.organizeImports": true
+	},
+	"files.trimTrailingWhitespace": true,
+	"files.trimFinalNewlines": true,
+	"files.associations": {
+		"*.css": "css",
+		"*.svg": "html"
+	},
+	"typescript.preferences.importModuleSpecifier": "non-relative"
+}
